@@ -1,4 +1,6 @@
-t8
-==
 
-Internationalisation (i18n) for Javascript
+# i18njs
+ 
+Javascript Internationalisation
+
+See http://winterwell.com/software/i18njs
