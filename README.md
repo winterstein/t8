@@ -1,6 +1,1 @@
-
-# i18njs
- 
-Javascript Internationalisation
-
-See http://winterwell.com/software/i18njs
+Deprectaed -- please see <http://github.com/winterstein/i18njs>
